@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/format.ts","./src/main.tsx","./src/risk.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/heatlayer.tsx","./src/components/heatmapcontrols.tsx","./src/components/mapview.tsx","./src/components/placeinput.tsx","./src/components/planform.tsx","./src/components/routelist.tsx","./src/services/api.ts","./vite.config.ts"],"version":"5.9.3"}

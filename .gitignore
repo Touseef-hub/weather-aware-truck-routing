@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.env
+db.sqlite3
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+# OS / IDE
+.idea/
+.vscode/
+fs-assessment-spotter.pdf
